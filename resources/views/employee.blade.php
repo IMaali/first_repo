@@ -79,10 +79,10 @@ text-align: right;
 <div class="border-pattern">
  <div class="content">
   <div class="inner-content">
-   <h1>Certificate</h1>
+   <!-- <h1>Certificate</h1>
    <h2>of Excellence</h2>
    <h3>This Certificate Is Proudly Presented To</h3>
-   <p>Jane Doe</p>
+   <p>Jane Doe</p> -->
    <!-- <h3>Has Completed</h3>
    <p>PrintCSS Basics Course</p>
    <h3>On</h3>

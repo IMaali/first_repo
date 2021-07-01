@@ -83,11 +83,13 @@ text-align: right;
    <h2>of Excellence</h2>
    <h3>This Certificate Is Proudly Presented To</h3>
    <p>Jane Doe</p>
-   <h3>Has Completed</h3>
+   <!-- <h3>Has Completed</h3>
    <p>PrintCSS Basics Course</p>
    <h3>On</h3>
    <p>Feburary 5, 2021</p>
    <div class="badge">
+     <br> -->
+
    </div>
   </div>
  </div>
